@@ -44,3 +44,13 @@ profile.json
 
 # Copies of vulnerable files
 **/vulnerable_files
+
+# Python virtual environments
+.venv
+**/.venv
+venv
+**/venv
+
+# Python cache files
+__pycache__
+**/__pycache__
