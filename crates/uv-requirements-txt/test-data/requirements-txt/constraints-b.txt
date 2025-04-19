@@ -1,6 +1,6 @@
 # django==2.1.15
 # django needs to be at least 2.2.10 or it contains a critical SQL injection vulnerability.
 # current version of django is 4.2.16
-django==2.2.24
+django==2.2.28
 
 pytz==2023.3
