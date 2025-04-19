@@ -46,7 +46,7 @@ RequirementsTxt {
                         [
                             VersionSpecifier {
                                 operator: Equal,
-                                version: "2.2.10",
+                                version: "2.2.24",
                             },
                         ],
                     ),
